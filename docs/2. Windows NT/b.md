@@ -1,10 +1,10 @@
-# Windows and NTFS
+# NTFS
 
-In the early 1990s, Microsoft had realised that their original DOS/Windows technology had reached the end of feasible development and that they needed new beginnings. The Windows NT project was successful and with it came a new file system to replace FAT. FAT dated back to the 1970 and was archaic and obsolete as a server file system; it remains to this day as a suitable file system for removable media. 
+In the early 1990s, Microsoft had realised that their original DOS/Windows technology had reached the end of feasible development and that they needed new beginnings. The Windows New Technoloy (NT) project was successful and with it came a new file system to replace FAT. FAT dated back to the 1970 and was archaic and obsolete as a server file system; it remains to this day as a suitable file system for removable media. 
 
 HPFS was designed for use with OS/2 and was better, but suited for desktop, not server environments. 
 
-Microsoft learned a great deal from the development of HPFS and these lessons were implemented in their new file system NFTS.
+Microsoft learned a great deal from the development of HPFS and these lessons were implemented in their new file system (NTFS).
 
 NTFS was written by a team headed by Tom Miller.
 
